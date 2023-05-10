@@ -1,0 +1,15 @@
+C:\Users\rocca\OneDrive\Escritorio\Ejercicios EOI\Proyectos Guiados\Proyecto3\bin\Debug\net7.0\Proyecto3.exe
+C:\Users\rocca\OneDrive\Escritorio\Ejercicios EOI\Proyectos Guiados\Proyecto3\bin\Debug\net7.0\Proyecto3.deps.json
+C:\Users\rocca\OneDrive\Escritorio\Ejercicios EOI\Proyectos Guiados\Proyecto3\bin\Debug\net7.0\Proyecto3.runtimeconfig.json
+C:\Users\rocca\OneDrive\Escritorio\Ejercicios EOI\Proyectos Guiados\Proyecto3\bin\Debug\net7.0\Proyecto3.dll
+C:\Users\rocca\OneDrive\Escritorio\Ejercicios EOI\Proyectos Guiados\Proyecto3\bin\Debug\net7.0\Proyecto3.pdb
+C:\Users\rocca\OneDrive\Escritorio\Ejercicios EOI\Proyectos Guiados\Proyecto3\obj\Debug\net7.0\Proyecto3.csproj.AssemblyReference.cache
+C:\Users\rocca\OneDrive\Escritorio\Ejercicios EOI\Proyectos Guiados\Proyecto3\obj\Debug\net7.0\Proyecto3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rocca\OneDrive\Escritorio\Ejercicios EOI\Proyectos Guiados\Proyecto3\obj\Debug\net7.0\Proyecto3.AssemblyInfoInputs.cache
+C:\Users\rocca\OneDrive\Escritorio\Ejercicios EOI\Proyectos Guiados\Proyecto3\obj\Debug\net7.0\Proyecto3.AssemblyInfo.cs
+C:\Users\rocca\OneDrive\Escritorio\Ejercicios EOI\Proyectos Guiados\Proyecto3\obj\Debug\net7.0\Proyecto3.csproj.CoreCompileInputs.cache
+C:\Users\rocca\OneDrive\Escritorio\Ejercicios EOI\Proyectos Guiados\Proyecto3\obj\Debug\net7.0\Proyecto3.dll
+C:\Users\rocca\OneDrive\Escritorio\Ejercicios EOI\Proyectos Guiados\Proyecto3\obj\Debug\net7.0\refint\Proyecto3.dll
+C:\Users\rocca\OneDrive\Escritorio\Ejercicios EOI\Proyectos Guiados\Proyecto3\obj\Debug\net7.0\Proyecto3.pdb
+C:\Users\rocca\OneDrive\Escritorio\Ejercicios EOI\Proyectos Guiados\Proyecto3\obj\Debug\net7.0\Proyecto3.genruntimeconfig.cache
+C:\Users\rocca\OneDrive\Escritorio\Ejercicios EOI\Proyectos Guiados\Proyecto3\obj\Debug\net7.0\ref\Proyecto3.dll
