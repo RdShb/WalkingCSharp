@@ -12,14 +12,12 @@ int[] chrisScores = new int[] { 84, 86, 88, 90, 92, 94, 96, 98 };
 int[] ericScores = new int[] { 80, 90, 100, 80, 90, 100, 80, 90 };
 int[] gregorScores = new int[] { 91, 91, 91, 91, 91, 91, 91 };    
 
-// Student names
 string[] studentNames = new string[] { "Sophia", "Andrew", "Emma", "Logan", "Becky", "Chris", "Eric", "Gregor" };
 
 int[] studentScores = new int[10];
 
 string currentStudentLetterGrade = "";
 
-// Write the Report Header to the console
 Console.WriteLine("Student\t\tGrade\n");
 
 foreach (string name in studentNames)
@@ -53,27 +51,20 @@ foreach (string name in studentNames)
     else
         continue;
 
-    // initialize/reset the sum of scored assignments
     decimal sumAssignmentScores = 0;
 
-    // initialize/reset the calculated average of exam + extra credit scores
     decimal currentStudentGrade = 0;
-
-    // initialize/reset a counter for the number of assignment 
+ 
     decimal gradedAssignments = 0;
 
-    // loop through the scores array and complete calculations for currentStudent
     foreach (decimal score in studentScores)
     {
-        // increment the assignment counter
         gradedAssignments += 1;
 
         if (gradedAssignments <= examAssignments)
-            // add the exam score to the sum
             sumAssignmentScores += score;
 
         else
-            // add the extra credit points to the sum - bonus points equal to 10% of an exam score
             sumAssignmentScores += (decimal)score / 10;
     }
 
@@ -118,10 +109,8 @@ foreach (string name in studentNames)
     else
         currentStudentLetterGrade = "F";
 
-    //Console.WriteLine("Student\t\tGrade\tLetter Grade\n");
     Console.WriteLine($"{currentStudent}\t\t{currentStudentGrade}\t{currentStudentLetterGrade}");
 }
 
-// required for running in VS Code (keeps the Output windows open to view results)
-Console.WriteLine("\n\rPress the Enter key to continue");
+Console.WriteLine("\n\rPresiona Enter para continuar");
 Console.ReadLine();
